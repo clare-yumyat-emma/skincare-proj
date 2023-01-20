@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+nav{
+    color: rgb(255, 255, 255) ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgb(11, 14, 13) ;
+    height: 45px;
+    padding-top: 22px;
+}
+.tab{
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.container{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+img{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 15px;
+    float: right;
+    
+}
+table{
+    margin-left: 10px;
+}
+
+footer{
+    color:rgb(255, 255, 255) ;
+    background-color: rgb(11, 14, 13);
+    text-align: center;
+    clear: right;
+    height: 50px;
+    padding-top:10px ;
+}
+
